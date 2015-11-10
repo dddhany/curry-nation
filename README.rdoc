@@ -1,5 +1,5 @@
 == README
 
-Based on Book Rails 4 Application Development
-Chapter 1
-A social recipe sharing website
+#Based on Book Rails 4 Application Development
+#Chapter 1
+#A social recipe sharing website
